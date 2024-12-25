@@ -16,8 +16,7 @@ Menggunakan Tkinter untuk GUI yang sederhana dan mudah dipahami.
 4.Klik "Enkripsi" untuk mengenkripsi atau "Dekripsi" untuk mendekripsi teks.
 5.Lihat hasilnya di bagian "Hasil".
 
-
-2. DES Encryption/Decryption
+2.DES Encryption/Decryption
 Nama Tugas: Implementasi DES Encryption/Decryption dengan GUI
 
 Deskripsi Tugas:
@@ -29,7 +28,7 @@ Cara Menjalankan:
 3.Klik "Enkripsi" untuk enkripsi atau "Dekripsi" untuk dekripsi.
 4.Lihat hasilnya di bagian "Hasil".
 
-3. Steganografi (Pesan Tersembunyi dalam Gambar)
+3.Steganografi (Pesan Tersembunyi dalam Gambar)
 Nama Tugas: Implementasi Steganografi dengan GUI
 
 Deskripsi Tugas:
